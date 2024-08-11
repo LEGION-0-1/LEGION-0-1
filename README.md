@@ -1,5 +1,5 @@
-- 👋 Hi, I’m @LEGION-0-1
+- 👋 Hi, I’m LEGION-0-1
 - 👀 I’m interested in Anything and everything 
-- 🌱 I’m currently learning Javascript
+- 🌱 I’m currently learning Javascript, Data Structures and Algorithms
 - 💞️ I’m looking to collaborate on C, C++, C#, Java, HTML, CSS, Python etc
-- 📫 How to reach me 
+- 📫 Reach me on LinkedIn or Instagram
