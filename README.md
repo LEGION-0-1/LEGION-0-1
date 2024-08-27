@@ -1,3 +1,4 @@
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Dilpreet+Singh+aka+LEGION)](https://git.io/typing-svg)
 - 👋 Hi, I’m LEGION-0-1
 - 👀 I’m interested in Anything and everything 
 - 🌱 I’m currently learning Javascript, Data Structures and Algorithms
