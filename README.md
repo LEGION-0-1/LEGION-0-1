@@ -1,7 +1,5 @@
-- 👋 Hi, I’m
-  [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&width=435&lines=Dilpreet+Singh+aka+LEGION)](https://git.io/typing-svg)
-  
-- 👀 I’m interested in Anything and everything 
-- 🌱 I’m currently learning Javascript, Data Structures and Algorithms
-- 💞️ I’m looking to collaborate on C, C++, C#, Java, HTML, CSS, Python etc
-- 📫 Reach me on LinkedIn or Instagram
+- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&vCenter=true&width=435&lines=%F0%9F%91%8BHi%2C+I'm+Dilpreet+Singh+aka+LEGION)](https://git.io/typing-svg)
+- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&vCenter=true&width=435&lines=%F0%9F%91%80+I%E2%80%99m+interested+in+Anything+and+everything+)](https://git.io/typing-svg)
+- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&vCenter=true&width=435&lines=%F0%9F%8C%B1+I%E2%80%99m+currently+learning+Javascript%2C+Data+Structures+and+Algorithms+)](https://git.io/typing-svg)
+- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&vCenter=true&width=435&lines=%F0%9F%92%9E%EF%B8%8F+I%E2%80%99m+looking+to+collaborate+on+C%2C+C%2B%2B%2C+C%23%2C+Java%2C+HTML%2C+CSS%2C+Python+etc)](https://git.io/typing-svg)
+- [![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=F70000&vCenter=true&width=435&lines=%F0%9F%93%AB+Reach+me+on+LinkedIn+or+Instagram)](https://git.io/typing-svg)
