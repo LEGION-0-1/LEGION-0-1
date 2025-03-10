@@ -48,7 +48,7 @@
 <h2 style="color: #00c9ff; text-align: center;">📬 Let’s Connect:</h2>
 
 <p style="list-style: none; padding: 0; text-align: center;">
-  <a href="your-linkedin-url" style="color: #00c9ff; text-decoration: none; font-weight: bold;">LinkedIn</a> |
-  <a href="your-medium-url" style="color: #00c9ff; text-decoration: none; font-weight: bold;">Medium</a> |
-  <a href="your-portfolio-url" style="color: #00c9ff; text-decoration: none; font-weight: bold;">Portfolio</a>
+  <a href="https://www.linkedin.com/in/dilpreet-singh--/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://i.imgur.com/yRpa1dQ.png"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;|
+  
 </p>
